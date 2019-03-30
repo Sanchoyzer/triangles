@@ -1,0 +1,20 @@
+# Text backup files
+*.bak
+
+#Database
+*.sqlite3
+*.db
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# virtualenv
+env/
+
+# PyCharm
+.idea
+
+# dotenv
+.env
